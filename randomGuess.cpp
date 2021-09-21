@@ -32,6 +32,5 @@ int main() {
     std::cout << "Answer: " << answer << std::endl;
   }
 
-
   std::cout << "\nDone" << std::endl;
 }
