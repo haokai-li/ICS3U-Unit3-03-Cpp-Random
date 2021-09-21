@@ -29,8 +29,9 @@ int main() {
   } else {
     // output
     std::cout << "You guessed wrong!" << std::endl;
+    std::cout << "Answer: " << answer << std::endl;
   }
 
-  std::cout << "Answer: " << answer << std::endl;
+
   std::cout << "\nDone" << std::endl;
 }
